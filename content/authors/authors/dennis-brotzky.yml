@@ -1,12 +1,9 @@
-name: Dennis Brotzky
+name: Vedant Suryawanshi
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  Speed
 avatar: ./avatars/dennis-brotzky.jpg
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+  - url: https://www.instagram.com/thevedantsuryawanshi/
+  - url: https://twitter.com/VedantSurya
+  - url: https://github.com/vedantsuryawanshi
 featured: true
