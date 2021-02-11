@@ -1,33 +1,25 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Kiviro by Vedant Suryawanshi`,
+    name: `Kiviro`,
+    siteUrl: `https://kiviro.in`,
+    description: `Documenting Vedant Suryawanshi's life.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `There’s a saying that when it gets really tough and when you’re about to give up, that’s the time when you’re about to reap the results you want.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/vedantsurya`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/vedantsuryawanshi`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://instagram.com/thevedantsuryawanshi`,
       },
     ],
   },
@@ -48,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Kiviro by Vedant Suryawanshi`,
+        short_name: `Kiviro`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
